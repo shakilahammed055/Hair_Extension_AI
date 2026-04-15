@@ -169,16 +169,6 @@ Use the Swagger UI to test the `/hair/match-hair-color` endpoint directly from y
 
 --- -->
 
-## 👩‍💻 Maintainers
-
-**PromptNest Team**
-Built with 💡 by:
-
--   [Roksana18cse04](https://github.com/Roksana18cse04)
--   [marziasu](https://github.com/marziasu)
--   [Hasib303](https://github.com/Hasib303)
-
-*Expertise: Data Science, AI Engineering, Computer Vision, Full Stack Deployment*
 
 ---
 
